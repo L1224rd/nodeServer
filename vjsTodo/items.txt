@@ -2,9 +2,10 @@ id;name
 23;arroz
 24;feijão
 26;ovo
-27;queijo
 28;verdura
 29;carne
 30;água
 31;refrigerante
 32;frutas
+33;macarrão
+34;leite
